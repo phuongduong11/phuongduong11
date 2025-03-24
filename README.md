@@ -1,5 +1,3 @@
-# About Me
-
 # Hi 👋, I'm Phuong Duong!
 
 🎓 MS in Business Analytics Student @UC Irvine (Graduating Sep 2025)  
