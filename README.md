@@ -28,11 +28,5 @@
   <img src="https://img.shields.io/badge/-SPSS-2C2C2C?style=for-the-badge" height="32"/>
 </p>
 
-## 📫 Let's Connect
-
-📍 Based in Irvine, CA | Open to data analyst / business analyst opportunities!
-
-🔗 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/phuongduong11/)
-
 ⭐️ Thanks for visiting my GitHub!
 
