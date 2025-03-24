@@ -1,11 +1,11 @@
 # About Me
 
-# Hi, I'm Phuong Duong! 🌟📊
+# Hi 👋, I'm Phuong Duong!
 
 🎓 MS in Business Analytics Student @UC Irvine (Graduating Sep 2025)  
-💼 Student Data Analyst @ BOSCH  
-👥 Executive Vice President @UCI Merage Analytics Club  
-📌 Passionate about driving data-powered insights and building smart solutions across industries  
+👩‍💻 Student Data Analyst @ BOSCH  
+📊 Executive Vice President @UCI Merage Analytics Club  
+🌟 Passionate about driving data-powered insights and building smart solutions across industries  
 
 ## 🔍 Specializing in: 
 - Machine Learning  
