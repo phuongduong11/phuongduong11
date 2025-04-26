@@ -4,7 +4,7 @@
 🎓 MS in Business Analytics @ UC Irvine (Graduating Sep 2025)  
 👩‍💻 Student Data Analyst @ BOSCH  
 📊 Executive Vice President @UCI Merage Analytics Club  
-🌟 Passionate about unlocking data-driven insights and build solutions that create real businesses impacts
+🌟 Passionate about unlocking data-driven insights and build solutions that create real business impacts
 
 ## 🔍 Specializing in: 
 - Machine Learning 
